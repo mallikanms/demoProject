@@ -1,0 +1,2 @@
+Hi
+This is a newly added file corresponding to change 1.
